@@ -61,7 +61,7 @@ Alex,alex@gmail.com,2000,8,12
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone <[(https://github.com/subhramannil/AUTOMATED-BIRTHDAY-WISHER)]>
 ```
 
 ---
