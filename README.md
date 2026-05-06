@@ -135,6 +135,8 @@ This project helped practice:
 - Database integration
 
 ---
+<img width="1470" height="633" alt="image" src="https://github.com/user-attachments/assets/4ea80dba-130e-41da-b669-7c936dd3bac0" />
+
 
 # 👨‍💻 Author
 
